@@ -1,0 +1,9 @@
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\bin\Debug\netcoreapp1.0\WebApi1.deps.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\bin\Debug\netcoreapp1.0\WebApi1.runtimeconfig.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\bin\Debug\netcoreapp1.0\WebApi1.runtimeconfig.dev.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\bin\Debug\netcoreapp1.0\WebApi1.dll
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\obj\Debug\netcoreapp1.0\WebApi1.csprojResolveAssemblyReference.cache
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\obj\Debug\netcoreapp1.0\WebApi1.AssemblyInfo.cs
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\bin\Debug\netcoreapp1.0\WebApi1.pdb
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\obj\Debug\netcoreapp1.0\WebApi1.dll
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\WebApi1\obj\Debug\netcoreapp1.0\WebApi1.pdb

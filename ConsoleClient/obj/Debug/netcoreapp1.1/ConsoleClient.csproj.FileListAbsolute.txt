@@ -1,0 +1,9 @@
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.deps.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.runtimeconfig.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.runtimeconfig.dev.json
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.dll
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.AssemblyInfo.cs
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\bin\Debug\netcoreapp1.1\ConsoleClient.pdb
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.dll
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\ConsoleClient\obj\Debug\netcoreapp1.1\ConsoleClient.pdb

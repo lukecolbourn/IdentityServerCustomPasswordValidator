@@ -1,0 +1,9 @@
+c:\users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\bin\Debug\netcoreapp1.0\LoginWeb.deps.json
+c:\users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\bin\Debug\netcoreapp1.0\LoginWeb.runtimeconfig.json
+c:\users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\bin\Debug\netcoreapp1.0\LoginWeb.runtimeconfig.dev.json
+c:\users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\bin\Debug\netcoreapp1.0\LoginWeb.dll
+c:\users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\obj\Debug\netcoreapp1.0\LoginWeb.AssemblyInfo.cs
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\bin\Debug\netcoreapp1.0\LoginWeb.pdb
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\obj\Debug\netcoreapp1.0\LoginWeb.csprojResolveAssemblyReference.cache
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\obj\Debug\netcoreapp1.0\LoginWeb.dll
+C:\Users\lukec_000\documents\visual studio 2017\Projects\LoginWeb\LoginWeb\obj\Debug\netcoreapp1.0\LoginWeb.pdb
